@@ -1,0 +1,1 @@
+This is the beginning of learning how to setup an enviornment for robotics simulation using IsaacSim. This first lesson will be setting up the tools and dependencies.

@@ -1,0 +1,1 @@
+This media folder is where I will be putting my ipad notes.
